@@ -1,10 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\1 lab",
-    "\\labs",
-    "\\labs\\lab1"
+    "\\2 lab",
+    "\\2 lab\\task1",
+    "\\2 lab\\task2",
+    "\\2 lab\\task2\\math",
+    "\\2 lab\\task3",
+    "\\2 lab\\task3\\mymath",
+    "\\2 lab\\task4",
+    "\\2 lab\\task4\\mymath"
   ],
-  "SelectedNode": "\\1 lab\\launch.json",
+  "SelectedNode": "\\2 lab\\task1\\ex1.go",
   "PreviewInSolutionExplorer": false
 }
