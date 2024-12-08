@@ -1,5 +1,6 @@
 package math
 
+import "fmt"
 
 func findMin(x1 float64, x2 float64, x3 float64) float64 {
 	var min float64
